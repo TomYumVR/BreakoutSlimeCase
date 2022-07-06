@@ -1,7 +1,7 @@
 # **BreakoutSlime Case**  for DIY Slime VR
 ## The BreakoutSlime Case was designed to fit the [BreakoutSlime PCB](https://github.com/TheButlah/slimevr_pcb/tree/main/hardware/breakout_slime) <br> Designed by: [TheButlah](https://github.com/TheButlah)
 
-<img src="Assets/Main.png" height="250" style="display:block;margin:15px auto">
+<img src="Assets/Main.PNG" height="250" style="display:block;margin:15px auto">
 
 All the parts were designed with SLA 3D-Printing in mind.
 The case has a snap-fitting lid design that snaps into place without the need for any screws or adhesive.
@@ -39,18 +39,18 @@ The case also has a cutout for a 5 pin male JST XH connector, USB Type-C for the
    - 38mm Elastic Straps
 
 ## Versions
-<img src="Assets/Versions.png" width="440" style="display:block;margin:15px auto">
+<img src="Assets/Versions.PNG" width="440" style="display:block;margin:15px auto">
 
 - Wemos D1 Mini with the port mounted on the top
 - Wemos D1 Mini with the port mounted on the bottom
 
 ## Soldering
-<img src="Assets/breakoutpcb.png" height="250" style="display:block;margin:15px auto">
+<img src="Assets/breakoutpcb.PNG" height="250" style="display:block;margin:15px auto">
  Soldering is straight forward. Follow the standard soldering procedures, and use the headerpins to mount the components correctly so that they will be alligned with the cutouts.
 
 
 ## Assembly
-
+<img src="Assets/Assembly.gif" height="250" style="display:block;margin:15px auto">
 After successfully soldering the PCB, and confirming that it's working properly, place the Battery in the case and secure it via double sided adhesive tape. Make sure to insulate the battery using electrical tape before continuing with the next step. Connect the female 2 pin JST-XH on the battery to the pcb, and secure the pcb using double sided adhesive onto the insulated battery.
 
 ## Contributors
