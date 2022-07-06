@@ -1,7 +1,11 @@
 # **BreakoutSlime Case**  for DIY Slime VR
 ## The BreakoutSlime Case was designed to fit the [BreakoutSlime PCB](https://github.com/TheButlah/slimevr_pcb/tree/main/hardware/breakout_slime) <br> Designed by: [TheButlah](https://github.com/TheButlah)
 
+<<<<<<< HEAD
 <img src="Assets/Main.PNG" height="250" style="display:block;margin:15px auto">
+=======
+<img src="Assets/Main.PNG" width="440" style="display:block;margin:15px auto">
+>>>>>>> f87612c92801c9bceb60cb2607b70f10fe039d72
 
 All the parts were designed with SLA 3D-Printing in mind.
 The case has a snap-fitting lid design that snaps into place without the need for any screws or adhesive.
